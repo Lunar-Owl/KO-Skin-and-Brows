@@ -236,35 +236,38 @@ export default function Contact() {
                     Select a service
                   </option>
 
-                  <option value="brow-service">
-                    Brow Service
+                  <option value="signature-glow-facial">
+                    Signature Glow Facial
                   </option>
 
-                  <option value="brow-enhancement">
-                    Brow Enhancement
+                  <option value="dermabrasion-facial">
+                    Dermabrasion Facial
                   </option>
 
-                  <option value="skin-treatment">
-                    Skin Treatment
+                  <option value="korean-glass-skin-facial">
+                    Korean Glass Skin Facial
                   </option>
 
-                  <option value="signature-skin-treatment">
-                    Signature Skin Treatment
+                  <option value="chemical-peel">
+                    Chemical Peel
                   </option>
 
-                  <option value="specialty-treatment">
-                    Specialty Treatment
+                  <option value="bb-glow">
+                    BB Glow
+                  </option>
+
+                  <option value="microneedling">
+                    Microneedling
+                  </option>
+
+                  <option value="brow-tattoo">
+                    Brow Tattoo
                   </option>
 
                   <option value="general-enquiry">
                     General Enquiry
                   </option>
                 </select>
-
-                <p className="mt-2 text-xs text-gray-400">
-                  Service names are temporary and should be replaced with
-                  the client's confirmed service menu.
-                </p>
               </div>
 
               {/* MESSAGE */}

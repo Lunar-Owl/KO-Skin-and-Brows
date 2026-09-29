@@ -1,59 +1,72 @@
 export const serviceCategories = [
   {
-    name: "Brows",
-    description:
-      "Enhance and define your natural brows with personalised brow treatments.",
-    services: [
-      {
-        name: "Brow Service",
-        description:
-          "A personalised brow treatment designed around your natural shape and desired look.",
-        duration: "Duration TBC",
-        price: "Price TBC",
-      },
-      {
-        name: "Brow Enhancement",
-        description:
-          "A tailored treatment to help create beautifully defined and balanced brows.",
-        duration: "Duration TBC",
-        price: "Price TBC",
-      },
-    ],
-  },
-
-  {
     name: "Skin",
     description:
-      "Professional skin treatments focused on creating a refreshed and cared-for complexion.",
+      "Professional skin treatments designed to improve hydration, texture, radiance, and overall skin health.",
+
     services: [
       {
-        name: "Skin Treatment",
+        name: "Signature Glow Facial",
         description:
-          "A personalised skin treatment selected according to your individual needs.",
-        duration: "Duration TBC",
-        price: "Price TBC",
+          "Customised facial to deeply cleanse, hydrate and refresh the skin, leaving complexion soft, smooth and radiant.",
+        duration: "45 mins",
+        price: "A$99.00",
       },
+
       {
-        name: "Signature Skin Treatment",
+        name: "Dermabrasion Facial",
         description:
-          "A relaxing skin-focused experience designed to leave your complexion feeling refreshed.",
-        duration: "Duration TBC",
-        price: "Price TBC",
+          "Resurfacing mechanical exfoliation to remove dull buildup and improve rough texture.",
+        duration: "1 hr",
+        price: "A$120.00",
+      },
+
+      {
+        name: "Korean Glass Skin Facial",
+        description:
+          "Glow-focused deep hydration and barrier care for a brighter, plumper glass-skin finish.",
+        duration: "1 hr 10 mins",
+        price: "A$150.00",
+      },
+
+      {
+        name: "Chemical Peel",
+        description:
+          "Targeted multi-acid resurfacing to improve dullness, uneven tone, texture and congestion.",
+        duration: "1 hr 5 mins",
+        price: "A$175.00",
+      },
+
+      {
+        name: "BB Glow",
+        description:
+          "Complexion-enhancing semi-permanent infusion for smoother, brighter, even-toned skin.",
+        duration: "1 hr 30 mins",
+        price: "A$199.00",
+      },
+
+      {
+        name: "Microneedling",
+        description:
+          "Collagen induction therapy to improve texture, post-acne marks, and fine lines.",
+        duration: "1 hr 15 mins",
+        price: "A$199.00",
       },
     ],
   },
 
   {
-    name: "Special Treatments",
+    name: "Brows",
     description:
-      "Explore additional treatments available at KO Skin & Brows.",
+      "Specialised brow enhancement services designed to create balanced, defined and natural-looking results.",
+
     services: [
       {
-        name: "Specialty Treatment",
+        name: "Brow Tattoo",
         description:
-          "Ask our team about available specialty treatments and find the right option for you.",
-        duration: "Duration TBC",
-        price: "Price TBC",
+          "Cosmetic tattooing customized to your facial symmetry to enhance shape, fullness, and definition.",
+        duration: "2 hrs 30 mins",
+        price: "A$599.00",
       },
     ],
   },

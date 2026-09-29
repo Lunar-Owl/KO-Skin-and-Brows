@@ -51,8 +51,9 @@ export default function About() {
               </span>
             </h1>
             <p className="mt-8 max-w-2xl text-lg leading-8 text-gray-600">
-              KO Skin & Brows is a beauty studio dedicated to creating
-              personalised skin and brow experiences in Oakleigh South.
+              Personalised skin and brow treatments in a calm, welcoming space. Every treatment 
+              is tailored to your individual goals, with a focus on natural, polished results and 
+              making you feel comfortable and cared for from start to finish.
             </p>
           </motion.div>
         </div>
